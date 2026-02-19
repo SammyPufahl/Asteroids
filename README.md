@@ -22,12 +22,13 @@ Abhängigkeiten installieren (falls benötigt):
 ```bash
 pip install -r requirements.txt
 ```
-▶️ Spiel starten
+🚀 Spiel starten
 
 Starte das Spiel mit:
 ```bash
 python3 main.py
 ```
+
 
 
 
