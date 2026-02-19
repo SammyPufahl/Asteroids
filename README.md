@@ -1,9 +1,9 @@
 🛠 Installation
 
 Repository klonen:
-
+```bash
 git clone https://github.com/SammyPufahl/Asteroids.git
-
+```
 
 In das Projektverzeichnis wechseln:
 
@@ -28,5 +28,6 @@ Starte das Spiel mit:
 ```bash
 python3 main.py
 ```
+
 
 
