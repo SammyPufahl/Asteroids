@@ -7,7 +7,8 @@ git clone https://github.com/SammyPufahl/Asteroids.git
 
 In das Projektverzeichnis wechseln:
 
-```cd Asteroids
+```bash
+cd Asteroids
 ```
 
 Optional: Python-Umgebung erstellen und aktivieren:
@@ -26,4 +27,5 @@ pip install -r requirements.txt
 Starte das Spiel mit:
 
 python3 main.py
+
 
